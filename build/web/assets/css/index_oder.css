@@ -1,0 +1,46 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Jun 24, 2024, 8:03:49 AM
+    Author     : hc
+*/
+
+.table-responsive {
+    overflow-x: auto; /* Ensure table content doesn't overflow */
+}
+
+.ab li a {
+    color: black !important; /* Set text color to black */
+    transition: 0.5s ease;
+}
+
+.ab li a:hover {
+    background-color: rgb(67 0 86);
+    color: #ffc800 !important; /* Optional: Set hover text color */
+}
+
+.product-image {
+    width: 100px;
+    height: 50px;
+    object-fit: cover;
+}
+
+.cancel-button {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.cancel-button:hover {
+    background-color: darkred;
+}
+
+.btn-back a {
+    margin-top: 20px;
+    display: inline-block;
+}

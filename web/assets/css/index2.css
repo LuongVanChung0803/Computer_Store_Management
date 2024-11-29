@@ -1,0 +1,435 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+/* Styling for the top bar */
+.top-bar {
+    background-color: #f8f9fa;
+    font-size: 14px;
+    color: #333;
+}
+
+.top-bar .icon {
+    font-weight: bold;
+}
+
+.top-bar a {
+    color: #333;
+    text-decoration: none;
+    margin-left: 10px;
+}
+
+.top-bar a:hover {
+    text-decoration: underline;
+}
+/* Sticky Navbar */
+.sticky-navbar {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+/* Multi-Level Dropdown */
+.dropdown-menu .dropdown-submenu {
+    position: relative;
+}
+
+.dropdown-menu .dropdown-submenu .dropdown-menu {
+    top: 0;
+    left: 100%;
+    margin-top: -10px;
+
+}
+
+.top-bar .icon {
+    margin-right: 5px;
+}
+
+.navbar-brand-custom {
+    color: #d9534f;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+/* Phong cách thanh tìm kiếm */
+.search-bar input {
+    border-radius: 20px;
+    border: 1px solid #ddd;
+    padding: 8px 12px;
+}
+
+
+
+.search-bar button {
+    background-color: transparent;
+    border: none;
+    margin-left: -35px;
+}
+.search-container {
+    position: relative;
+    min-width: 350px;
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.search-input {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+
+}
+
+.search-results {
+    position: absolute;
+    width: 100%;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-top: 5px;
+    z-index: 2000;
+    display: none;
+    max-height: 200px; /* Set max height for scrolling */
+    overflow-y: auto; /* Enable vertical scroll */
+}
+
+.product-item {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+.product-item:last-child {
+    border-bottom: none;
+}
+
+.product-image {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+}
+
+.product-name {
+    font-size: 14px;
+    color: #333;
+}
+
+
+.product-price {
+    font-size: 14px;
+}
+
+
+
+
+.phone-box .phone-number {
+    color: #d9534f;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+/*            .config-box {
+                background-color: #f8f9fa;
+                border: 1px solid #ddd;
+                padding: 20px;
+                text-align: center;
+                font-weight: bold;
+            }*/
+
+.phone-box :hover {
+    background-color: #e0e0e0;
+    cursor: pointer;
+}
+
+/* -------------------------------------------------------------------------------------------- */
+.header {
+    background-color: #0056b3;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.header h1 {
+    font-size: 24px;
+    margin: 0;
+}
+
+.header nav {
+    margin-top: 10px;
+}
+
+.header nav a {
+    color: #fff;
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.header nav a:hover {
+    text-decoration: underline;
+}
+
+
+    
+
+
+
+
+/*.sidebar {
+    margin-top: 20px;
+                    position: sticky;
+                    top: 90px;
+    background-color: #f8f9fa;
+    padding: 15px;
+    width: 320px;
+}
+
+.sidebar a {
+    display: block;
+    color: #000;
+    padding: 8px 0;
+    text-decoration: none;
+    border-bottom: 1px solid #ddd;
+}
+
+.sidebar a:hover {
+    background-color: #ddd;
+    font-weight: bold;
+}*/
+
+.contact-section {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.contact-section a {
+    display: inline-block;
+    margin: 0 5px;
+}
+
+.sale-section {
+    /*                background-color: #ffebcc;*/
+    /*                padding: 20px;*/
+    text-align: center;
+}
+
+.sale-item {
+    border: 1px solid #ddd;
+    margin: 5px;
+    padding: 10px;
+    background-color: #fff;
+}
+
+.sale-item img {
+    max-width: 100%;
+    height: auto;
+}
+
+.sale-price {
+    color: #d9534f;
+    font-weight: bold;
+}
+
+.sale-old-price {
+    text-decoration: line-through;
+    color: #999;
+}
+
+.sale-discount {
+    background-color: #ff6666;
+    color: #fff;
+    padding: 5px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+.countdown-timer {
+    font-size: 20px;
+    font-weight: bold;
+    color: #d9534f;
+}
+
+/* ----------------------------------------------------------------------------------------------------------------------- */
+/* Floating Contact Sidebar */
+.floating-contact {
+    position: fixed;
+    right: 20px;
+    top: 50%;
+    transform: translateY(-50%);
+    display: flex;
+    flex-direction: column;
+    z-index: 1000;
+}
+
+.contact-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    margin-bottom: 10px;
+    color: #fff;
+    font-size: 20px;
+    text-decoration: none;
+    border-radius: 50%;
+}
+
+.contact-icon.facebook {
+    background-color: #3b5998;
+}
+.contact-icon.youtube {
+    background-color: #ff0000;
+}
+.contact-icon.email {
+    background-color: #ff9900;
+}
+.contact-icon.phone {
+    background-color: #d9534f;
+}
+
+.contact-icon:hover {
+    opacity: 0.8;
+}
+
+
+
+/* Floating Contact Sidebar */
+.floating-contacts {
+    position: fixed;
+    right: 20px;
+    top: 85%;
+    transform: translateY(-50%);
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    z-index: 1000;
+}
+
+.contact-item {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease;
+    text-decoration: none;
+    color: #333;
+    font-size: 14px;
+}
+
+.contact-item:hover {
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.20);
+}
+
+.contact-item img {
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+    border-radius: 50%;
+}
+
+.contact-item span {
+    font-size: 14px;
+}
+/*--------------------------------------------------------------------*/
+/* Đặt phong cách chung cho nút giỏ hàng */
+.cart-button {
+    position: fixed;
+    top: 100px; /* Khoảng cách từ dưới lên */
+    right: 30px;  /* Khoảng cách từ phải sang */
+    width: 40px;  /* Chiều rộng nút */
+    height: 40px; /* Chiều cao nút */
+    background-color: #ff0000; /* Màu nền đỏ */
+    border-radius: 50%; /* Hình tròn */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); /* Đổ bóng */
+    cursor: pointer;
+    z-index: 1000; /* Đảm bảo nút nằm trên các phần tử khác */
+}
+
+/* Phong cách icon giỏ hàng */
+.cart-button img {
+    width: 20px; /* Kích thước icon */
+    height: 20px;
+}
+
+
+/* Footer Styling */
+.footer {
+    background-color: #f8f9fa;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.footer .section-title {
+    font-weight: bold;
+    color: #dc3545;
+    margin-bottom: 15px;
+}
+
+.footer p,
+.footer a {
+    font-size: 14px;
+    color: #333;
+    text-decoration: none;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}
+
+.footer .social-icons a {
+    font-size: 20px;
+    color: #333;
+    margin-right: 10px;
+}
+
+.footer .support-buttons .btn {
+    width: 100%;
+    color: #333;
+    border: 1px solid #ddd;
+    text-align: left;
+    padding: 8px;
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+
+.footer .support-buttons .btn i {
+    margin-right: 10px;
+}
+
+.footer .payment-methods img {
+    width: 50px;
+    margin-right: 8px;
+}
+
+
+/*------>*/
+.menu-title {
+    font-size: 18px;
+    font-weight: bold;
+    margin-right: 20px;
+}
+.discount {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background-color: #ff5252;
+    color: #fff;
+    padding: 5px;
+    border-radius: 50%;
+    font-size: 12px;
+    font-weight: bold;
+}
+.price-old {
+    text-decoration: line-through;
+    color: #999;
+    font-size: 14px;
+}
+.price-new {
+    color: #d32f2f;
+    font-size: 18px;
+    font-weight: bold;
+}
+

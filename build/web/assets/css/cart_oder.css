@@ -1,0 +1,92 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Jun 24, 2024, 7:59:28 AM
+    Author     : hc
+*/
+
+            .ab li a {
+                color: black !important; /* Set text color to black */
+                transition: 0.5s ease;
+            }
+
+            .ab li a:hover {
+                background-color: rgb(67 0 86);
+                color: #ffc800 !important; /* Optional: Set hover text color */
+            }
+            table {
+                width: 100%;
+                border-collapse: collapse;
+                margin-top: 20px; /* Thêm khoảng cách giữa navbar và bảng */
+            }
+            table th, table td {
+                padding: 12px; /* Tăng padding để dễ đọc hơn */
+                text-align: center; /* Căn giữa nội dung */
+            }
+            table th {
+                background-color: #f2f2f2; /* Màu nền cho header */
+            }
+            .cart-item img {
+                max-width: 80px; /* Giảm kích thước hình ảnh */
+                height: auto;
+                border-radius: 5px; /* Bo tròn các hình ảnh */
+            }
+            .cart-total {
+                font-size: 18px; /* Tăng kích thước font cho tổng cộng */
+                font-weight: bold;
+                padding-top: 10px; /* Khoảng cách với các nội dung khác */
+            }
+            .table-bordered {
+                border-collapse: collapse;
+            }
+
+            .table-bordered th,
+            .table-bordered td {
+                border: none; /* Loại bỏ border */
+                border-bottom: 1px solid #dee2e6; /* Thêm border phía dưới */
+            }
+
+            .table-bordered thead th {
+                border-bottom: 2px solid #dee2e6; /* Border dày hơn ở header */
+            }
+
+            /* Style for the modal form */
+            .modal {
+                display: none;
+                position: fixed;
+                z-index: 1;
+                left: 0;
+                top: 0;
+                width: 100%;
+                height: 100%;
+                overflow: auto;
+                background-color: rgb(0,0,0);
+                background-color: rgba(0,0,0,0.4);
+                padding-top: 60px;
+            }
+
+            .modal-content {
+                background-color: #fefefe;
+                margin: 5% auto;
+                padding: 20px;
+                border: 1px solid #888;
+                width: 80%;
+                max-width: 500px;
+                border-radius: 5px;
+            }
+
+            .close {
+                color: #aaa;
+                float: right;
+                font-size: 28px;
+                font-weight: bold;
+            }
+
+            .close:hover,
+            .close:focus {
+                color: black;
+                text-decoration: none;
+                cursor: pointer;
+            }

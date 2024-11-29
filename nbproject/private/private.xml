@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Workplace/java/Web_QLBanMayTinh1/src/java/model/CartItem.java</file>
+            <file>file:/D:/Workplace/java/Web_QLBanMayTinh1/src/java/controller/login/dangkyServlet.java</file>
+            <file>file:/D:/Workplace/java/Web_QLBanMayTinh1/web/views/client/home/top_bar.jsp</file>
+            <file>file:/D:/Workplace/java/Web_QLBanMayTinh1/web/views/login.jsp</file>
+            <file>file:/D:/Workplace/java/Web_QLBanMayTinh1/src/java/utils/OTPUtils.java</file>
+            <file>file:/D:/Workplace/java/Web_QLBanMayTinh1/src/java/controller/login/ggLoginServlet.java</file>
+            <file>file:/D:/Workplace/java/Web_QLBanMayTinh1/web/views/client/home/navigation_bar.jsp</file>
+            <file>file:/D:/Workplace/java/Web_QLBanMayTinh1/web/views/client/home/index2.jsp</file>
+            <file>file:/D:/Workplace/java/Web_QLBanMayTinh1/src/java/model/TaiKhoan.java</file>
+            <file>file:/D:/Workplace/java/Web_QLBanMayTinh1/src/java/controller/login/logout.java</file>
+            <file>file:/D:/Workplace/java/Web_QLBanMayTinh1/src/java/dao/TaiKhoanDao.java</file>
+            <file>file:/D:/Workplace/java/Web_QLBanMayTinh1/web/views/client/home/productDetail.jsp</file>
+            <file>file:/D:/Workplace/java/Web_QLBanMayTinh1/src/java/controller/client/AddToCartServlet.java</file>
+            <file>file:/D:/Workplace/java/Web_QLBanMayTinh1/web/views/vnpay_refund.jsp</file>
+            <file>file:/D:/Workplace/java/Web_QLBanMayTinh1/src/java/controller/login/LogGinSevrlet.java</file>
+            <file>file:/D:/Workplace/java/Web_QLBanMayTinh1/src/java/controller/login/VerifyOTPServlet2.java</file>
+            <file>file:/D:/Workplace/java/Web_QLBanMayTinh1/src/java/controller/login/GoogleLogin.java</file>
+            <file>file:/D:/Workplace/java/Web_QLBanMayTinh1/web/views/register.jsp</file>
+            <file>file:/D:/Workplace/java/Web_QLBanMayTinh1/web/views/vnpay_return.jsp</file>
+            <file>file:/D:/Workplace/java/Web_QLBanMayTinh1/src/java/controller/login/ForgotPasswordServlet.java</file>
+            <file>file:/D:/Workplace/java/Web_QLBanMayTinh1/src/java/utils/EmailUtil.java</file>
+            <file>file:/D:/Workplace/java/Web_QLBanMayTinh1/web/views/client/home/contact_and_cart.jsp</file>
+            <file>file:/D:/Workplace/java/Web_QLBanMayTinh1/src/java/controller/client/CartServlet.java</file>
+            <file>file:/D:/Workplace/java/Web_QLBanMayTinh1/web/views/admin/menu.jsp</file>
+        </group>
+    </open-files>
+</project-private>

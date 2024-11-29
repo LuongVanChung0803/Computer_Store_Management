@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a9c754e5-2171-47ec-8472-f899e22db021" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test/classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test/classes/.netbeans_update_resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test/classes/test/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/WEB-INF/classes/controller/admin/ProductSevrlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/WEB-INF/classes/controller/admin/ProductSevrlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/WEB-INF/classes/controller/admin/add_product.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/WEB-INF/classes/controller/admin/add_product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/WEB-INF/classes/controller/admin/update_product.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/WEB-INF/classes/controller/admin/update_product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/WEB-INF/classes/controller/client/AddKhachHangServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/WEB-INF/classes/controller/client/AddToCartServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/WEB-INF/classes/controller/client/AddToCartServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/WEB-INF/classes/controller/client/CartServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/WEB-INF/classes/controller/client/CartServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/WEB-INF/classes/controller/client/DetaiToAddToCartServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/WEB-INF/classes/controller/client/DetaiToAddToCartServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/WEB-INF/classes/controller/client/HomeServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/WEB-INF/classes/controller/client/HomeServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/WEB-INF/classes/controller/client/OderServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/WEB-INF/classes/controller/client/OderServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/WEB-INF/classes/controller/client/customerInformationServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/WEB-INF/classes/controller/client/customerInformationServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/WEB-INF/classes/controller/client/delete_Cart.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/WEB-INF/classes/controller/client/delete_Cart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/WEB-INF/classes/controller/client/delete_oder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/WEB-INF/classes/controller/client/productDetailServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/WEB-INF/classes/controller/client/productDetailServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/WEB-INF/classes/controller/login/LogGinSevrlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/WEB-INF/classes/controller/login/LogGinSevrlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/WEB-INF/classes/dao/CartDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/WEB-INF/classes/dao/CartDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/WEB-INF/classes/dao/DashboardDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/WEB-INF/classes/dao/DashboardDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/WEB-INF/classes/dao/DonHangDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/WEB-INF/classes/dao/DonHangDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/WEB-INF/classes/dao/KhachHangDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/WEB-INF/classes/dao/KhachHangDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/WEB-INF/classes/dao/ProductDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/WEB-INF/classes/dao/ProductDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/WEB-INF/classes/dao/TaiKhoanDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/WEB-INF/classes/dao/TaiKhoanDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/WEB-INF/classes/dao/ThongKeDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/WEB-INF/classes/dao/ThongKeDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/WEB-INF/classes/delete_Cart$delete_Cart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/WEB-INF/classes/delete_Cart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/WEB-INF/classes/model/CartItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/WEB-INF/classes/model/CartItem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/WEB-INF/classes/model/ChiTietVanChuyen.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/WEB-INF/classes/model/ChiTietVanChuyen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/WEB-INF/classes/model/DanhMuc.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/WEB-INF/classes/model/DanhMuc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/WEB-INF/classes/model/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/WEB-INF/classes/model/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/WEB-INF/classes/model/ThanhToan.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/WEB-INF/classes/model/ThanhToan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/WEB-INF/classes/utils/connectionDB.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/WEB-INF/classes/utils/connectionDB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/assets/css/admin.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/assets/css/admin.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/assets/css/client.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/assets/css/client.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/assets/img/OIG2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/assets/img/OIG3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/assets/img/OIG4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/assets/img/OIP.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/assets/img/dell.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/assets/img/dell1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/assets/img/dell2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/assets/img/dell3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/assets/img/dell30.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/assets/img/dell4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/assets/img/hp1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/assets/img/hp2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/assets/img/imageadmin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/assets/img/lenovo-v15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/assets/img/login1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/assets/img/mac1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/assets/img/mac2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/assets/img/th.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/views/admin/Dashboard.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/views/admin/Dashboard.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/views/admin/custommer/index_custommer.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/views/admin/custommer/index_custommer.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/views/admin/custommer/update_custommer.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/views/admin/custommer/update_custommer.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/views/admin/index_setting.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/views/admin/index_setting.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/views/admin/oder/index_order.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/views/admin/oder/index_order.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/views/admin/oder/update_oder.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/views/admin/oder/update_oder.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/views/admin/product/add_product.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/views/admin/product/add_product.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/views/admin/product/index_product.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/views/admin/product/index_product.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/views/admin/product/update_product.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/views/admin/product/update_product.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/views/admin/statistics/index_statistics.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/views/admin/statistics/index_statistics.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/views/admin/user/add_user.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/views/admin/user/add_user.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/views/admin/user/index_user.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/views/admin/user/index_user.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/views/admin/user/update_user.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/views/admin/user/update_user.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/views/client/home/Cart.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/views/client/home/Cart.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/views/client/home/customerDetails.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/views/client/home/customerDetails.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/views/client/home/index_home.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/views/client/home/orderDetails.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/views/client/home/orderDetails.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/views/client/home/productDetail.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/views/client/home/productDetail.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/views/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/views/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/views/register.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/views/register.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/build-impl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/nbproject/build-impl.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/genfiles.properties" beforeDir="false" afterPath="$PROJECT_DIR$/nbproject/genfiles.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/nbproject/private/private.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/project.properties" beforeDir="false" afterPath="$PROJECT_DIR$/nbproject/project.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/nbproject/project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/controller/admin/ProductSevrlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/controller/admin/ProductSevrlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/controller/admin/add_product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/controller/admin/add_product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/controller/admin/update_product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/controller/admin/update_product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/controller/client/AddKhachHangServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/controller/client/ThanhToanServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/controller/client/AddToCartServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/controller/client/AddToCartServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/controller/client/CartServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/controller/client/CartServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/controller/client/DetaiToAddToCartServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/controller/client/DetaiToAddToCartServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/controller/client/HomeServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/controller/client/HomeServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/controller/client/OderServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/controller/client/OderServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/controller/client/customerInformationServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/controller/client/customerInformationServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/controller/client/delete_Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/controller/client/delete_Cart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/controller/client/delete_oder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/controller/client/delete_oders1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/controller/client/productDetailServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/controller/client/productDetailServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/controller/login/LogGinSevrlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/controller/login/LogGinSevrlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/dao/CartDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/dao/CartDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/dao/DashboardDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/dao/DashboardDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/dao/DonHangDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/dao/DonHangDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/dao/KhachHangDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/dao/KhachHangDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/dao/ProductDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/dao/ProductDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/dao/TaiKhoanDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/dao/TaiKhoanDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/dao/ThongKeDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/dao/ThongKeDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/model/CartItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/model/CartItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/model/ChiTietVanChuyen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/model/ChiTietVanChuyen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/model/DanhMuc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/model/DanhMuc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/model/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/model/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/model/ThanhToan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/model/ThanhToan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/utils/connectionDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/utils/connectionDB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/test/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/assets/css/admin.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/css/admin.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/assets/css/client.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/css/client.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/assets/img/OIG2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/assets/img/OIG3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/assets/img/OIG4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/assets/img/OIP.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/assets/img/dell.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/assets/img/dell1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/assets/img/dell2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/assets/img/dell3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/assets/img/dell4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/assets/img/hp1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/assets/img/hp2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/assets/img/imageadmin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/assets/img/lenovo-v15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/assets/img/login1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/assets/img/mac1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/assets/img/mac2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/assets/img/th.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/views/admin/Dashboard.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/views/admin/Dashboard.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/views/admin/custommer/index_custommer.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/views/admin/custommer/index_custommer.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/views/admin/custommer/update_custommer.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/views/admin/custommer/update_custommer.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/views/admin/index_setting.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/views/admin/index_setting.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/views/admin/oder/index_order.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/views/admin/oder/index_order.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/views/admin/oder/update_oder.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/views/admin/oder/update_oder.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/views/admin/product/add_product.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/views/admin/product/add_product.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/views/admin/product/index_product.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/views/admin/product/index_product.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/views/admin/product/update_product.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/views/admin/product/update_product.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/views/admin/statistics/index_statistics.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/views/admin/statistics/index_statistics.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/views/admin/user/add_user.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/views/admin/user/add_user.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/views/admin/user/index_user.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/views/admin/user/index_user.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/views/admin/user/update_user.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/views/admin/user/update_user.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/views/client/home/Cart.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/views/client/home/Cart.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/views/client/home/customerDetails.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/views/client/home/customerDetails.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/views/client/home/index_home.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/views/client/home/orderDetails.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/views/client/home/orderDetails.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/views/client/home/productDetail.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/views/client/home/productDetail.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/views/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/views/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/views/register.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/views/register.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2p4wxXSc7DQXPbZKhwQtstSQuUU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/java_Springboot/identity-service"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9c754e5-2171-47ec-8472-f899e22db021" name="Changes" comment="" />
+      <created>1732038902586</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732038902586</updated>
+    </task>
+    <servers />
+  </component>
+</project>
